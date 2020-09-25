@@ -1,0 +1,4 @@
+import mycrawler
+
+
+mycrawler.getRatings()
