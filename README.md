@@ -3,7 +3,7 @@ INSTALLATION :
 - install selenium webdriver for crawling the data
 
 
-CODING DONE FOR :
+Current Work :
 - Crawl the FIFA ratings of all players
 - Crawl the player-ratings from past EPL matches from whoscored.com
 
